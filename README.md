@@ -6,7 +6,7 @@ I'm always looking for new and innovative ways to solve problems, and I'm always
 
 Here are some fun facts about me: /n
 
-My favorite programming language is Scratch. /n
+My favorite programming language is English. /n
 My favorite open source project is Bitcoin. /n
 My dream project is a money generating machine. /n
 If you're interested in learning more about me, or if you have any questions, please feel free to contact me! /n
